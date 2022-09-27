@@ -1,0 +1,54 @@
+
+.myDiv {
+  margin: auto;
+  opacity: 1.0;
+  max-width: 80%;
+  border: 5px outset rgb(14, 13, 13);
+  background-color: lightblue;
+  text-align: center;
+}
+
+body {
+  background-image: url("station.jpg");
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+button {
+  border: 1px solid black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+#increment-btn {
+  background: rgb(139, 0, 107);
+}
+
+#save-btn {
+  background: darkgreen;
+}
+
+#save-el {
+  font-weight: bold;
+}
+
+
